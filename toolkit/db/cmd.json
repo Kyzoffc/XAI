@@ -1,0 +1,76 @@
+{
+  "total": 76,
+  "ai_response": 247,
+  "cmd": [
+    {
+      "name": "autoai",
+      "use": 20,
+      "times": "24/12 13:11:17"
+    },
+    {
+      "name": "set",
+      "use": 12,
+      "times": "24/12 13:11:17"
+    },
+    {
+      "name": "dalle3",
+      "use": 8,
+      "times": "24/12 09:00:47"
+    },
+    {
+      "name": "tiktok",
+      "use": 3,
+      "times": "24/12 07:52:44"
+    },
+    {
+      "name": "menu",
+      "use": 8,
+      "times": "24/12 13:11:17"
+    },
+    {
+      "name": "pinterest",
+      "use": 2,
+      "times": "24/12 13:11:17"
+    },
+    {
+      "name": "ai",
+      "use": 4,
+      "times": "24/12 09:39:48"
+    },
+    {
+      "name": "setpp",
+      "use": 2,
+      "times": "24/12 09:00:47"
+    },
+    {
+      "name": "ytm4a",
+      "use": 3,
+      "times": "24/12 13:11:17"
+    },
+    {
+      "name": "cekapikey",
+      "use": 4,
+      "times": "24/12 13:11:17"
+    },
+    {
+      "name": "brat",
+      "use": 5,
+      "times": "24/12 13:11:17"
+    },
+    {
+      "name": "qc",
+      "use": 2,
+      "times": "24/12 13:11:17"
+    },
+    {
+      "name": "michi_jkt48",
+      "use": 2,
+      "times": "24/12 13:11:17"
+    },
+    {
+      "name": "bell",
+      "use": 1,
+      "times": "24/12 13:11:17"
+    }
+  ]
+}

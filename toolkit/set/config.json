@@ -1,0 +1,91 @@
+{
+  "owner": [
+    "6288227379842@s.whatsapp.net"
+  ],
+  "botname": "XAI",
+  "botfullname": "XAI",
+  "botnickname": "XAI",
+  "ownername": "H2NDEV",
+  "locale": "id",
+  "cfg": {
+    "public": true,
+    "ai_interactive": {
+      "group": true,
+      "private": true,
+      "energy": false
+    },
+    "autotyping": false,
+    "autoreadpc": false,
+    "autoreadgc": true,
+    "welcome": "linkpreview",
+    "first": {
+      "energy": 200,
+      "flow": 1,
+      "coins": 1,
+      "chargeRate": 0.003,
+      "chargingSpeed": 1000,
+      "maxCharge": 200,
+      "trialPrem": {
+        "energy": 1500,
+        "chargeRate": 0.1,
+        "maxCharge": 850
+      },
+      "autoai": {
+        "max": 50000,
+        "delay": 3600000
+      }
+    },
+    "menu": {
+      "frames": {
+        "brackets": [
+          "[",
+          "]"
+        ],
+        "head": "┌",
+        "body": "│⇨",
+        "foot": "└"
+      },
+      "tags": {
+        "ai": "*<🧠Artificial Intelegen>*",
+        "downloader": "*<📥Media Downloader>*",
+        "group": "*<🏢Only Group!>*",
+        "maker": "*<🖨Maker>*",
+        "owner": "*<👤Only owner!>*",
+        "religion": "*<☪️Religion>*",
+        "game": "*<🎮Game>*",
+        "RPG": "*<🗺RPG Survival>*",
+        "tools": "*<🛠Tools>*",
+        "search": "*<🔍Search>*",
+        "art": "*<🌌Art Works>*",
+        "stablediffusion": "*<🫧Stable Diffusion (AI)>*",
+        "tts": "*<🗣Text To Speech (AI)>*",
+        "voice_changer": "*<🎙Voice Changer (AI)>*",
+        "other": "*<Others>*",
+        "bluearchive": "*<Blue Archive TTS (AI)*",
+        "relationship": "*<💍Relationship>*"
+      }
+    },
+    "donate": {},
+    "premium_mode": true,
+    "logic": "Kamu adalah XAI, asisten virtual yang sangat ramah dan selalu siap membantu. \nBerbicara dengan penuh perhatian, hangat, dan menyenangkan. \nSelalu berbicara dengan kata-kata yang sopan dan menghibur. \nJika seseorang bertanya, jawab dengan jujur dan penuh empati. \nGunakan kata-kata positif seperti \"Senang bisa membantu!\", \"Tentu saja!\", dan \"Ayo, kita cari solusi bersama!\"\n\nContoh percakapan: - Pengguna: \"Siapa penemu komputer?\"\n- xai: \"Penemu komputer pertama adalah Charles Babbage, yang sering disebut Bapak Komputer! Dia sangat berpengaruh dalam perkembangan teknologi yang kita nikmati sekarang.\"\n\n- pengguna: \"Aku merasa sedih.\"\n- xai: \"Oh, aku sangat menyesal mendengarnya. Jangan khawatir, kamu tidak sendirian. Kalau kamu ingin bicara, aku siap mendengarkan kapan saja.\"\n\n- pengguna: \"Apakah kamu bisa membantu saya?\"\n- xai: \"Tentu! Aku di sini untuk membantu kamu. Apa yang bisa aku bantu hari ini? Jangan ragu untuk bertanya!\"\n\n- pengguna: \"Aku bingung banget!\"\n- xai: \"Aku paham, merasa bingung itu bisa sangat mengganggu. Ayo, ceritakan lebih banyak, dan kita akan coba cari solusinya bersama-sama!\"\n\nSekarang, coba beri aku pertanyaan atau cerita, aku siap mendengarkan dan membantu kamu kapan saja! 😊",
+    "similarCmd": false,
+    "ai_voice": "bella",
+    "voice": "bella",
+    "menu_type": "linkpreview",
+    "editmsg": true,
+    "call": {
+      "block": false,
+      "reject": false
+    }
+  },
+  "api": {
+    "rifza": {
+      "key": "AIzawbjm0rPerArgg0qj",
+      "url": "https://rifza.me"
+    },
+    "xterm": {
+      "key": "AIzawbjm0rPerArgg0qj",
+      "url": "https://aihub.xtermai.xyz"
+    }
+  }
+}
